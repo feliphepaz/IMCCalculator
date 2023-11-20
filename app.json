@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "imc-calculator",
-    "slug": "imc-calculator",
+    "name": "calculadora-de-imc",
+    "slug": "calculadora-de-imc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
